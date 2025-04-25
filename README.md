@@ -1,5 +1,7 @@
 # Interactive Risk Dashboard (Streamlit + Plotly)
 
+![screenshot](screenshot.png)
+
 ## Description
 
 This web application provides an interactive dashboard for visualizing key portfolio risk metrics relevant to a hedge fund environment. Built using Streamlit and Plotly, it allows users to:
